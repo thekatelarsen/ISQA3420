@@ -16,8 +16,8 @@
 <li>Reliable internet connection</li>
 <li>Know what results are needed </li>
 </ul>
-<b>Main Success Scenario:</b> The manager and project manager receive the correct license and vulnerability information to make decisions.
+<b>Main Success Scenario:</b> The developer receives the correct license and vulnerability information so that others can make decisions.
 <br><br>
-<b>Failed End Conditions:</b> The manager and project manager do not receive the correct license and vulnerability information and cannot make a decision.
+<b>Failed End Conditions:</b> The developer does not receive the correct license and vulnerability information and others cannot make a decision.
 <br><br>
 <b>Trigger:</b> The developer sends the software package to get scanned for licenses and vulnerability.
