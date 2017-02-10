@@ -8,11 +8,12 @@
 <br><br>
 <b>Stakeholders:</b>
 <ul>
-<li>Corporate Developer: To provide the correct license and vulnerability information</li>
+<li><i>Corporate Developer:</i> To be able to provide the correct license and vulnerability information.</li>
 </ul>
 <b>Preconditions:</b>
 <ul>
 <li>Correct software package </li>
+<li>Reliable internet connection</li>
 <li>Know what results are needed </li>
 </ul>
 <b>Main Success Scenario:</b> The manager and project manager receive the correct license and vulnerability information to make decisions.
