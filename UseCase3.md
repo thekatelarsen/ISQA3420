@@ -19,9 +19,6 @@
 </ul>
 <b>Main Success Scenario:</b> The manager correctly creates or edits a policy.
 <br><br>
-<b>Failed End Conditions:</b> 
-<ul>
-<li> The manager does not correctly create a policy. </li>
-<li> The manager does not correctly edit a policy. </li>
-</ul>
+<b>Failed End Conditions:</b> The manager does not correctly create or edit a policy.
+</br><br>
 <b>Trigger:</b> The manager sends either a new policy name to create or existing policy to edit.
