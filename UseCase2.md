@@ -1,8 +1,8 @@
 # Use Case 2
 
-<b>Title:</b> Determine License and Vulnerability Results
+<b>Title:</b> Apply Policy To A Package
 <br><br>
-<b>Primary Actor:</b> Corporate Developer
+<b>Primary Actor:</b> Corporate Manager
 <br><br>
 <b>Goal in Context:</b> The developer is able to determine the license of this software package as well as the vulnerability it may contain.
 <br><br>
