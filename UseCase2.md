@@ -8,8 +8,8 @@
 <br><br>
 <b>Stakeholders:</b>
 <ul>
-<li><i>Corporate Manager:</i> To be able to provide the correct license and vulnerability information.</li>
-<li><i>Corporate Developer:</i> 
+<li><i>Corporate Manager:</i> To be able to correctly apply a policy to a package. </li>
+<li><i>Corporate Developer: </i> To be able to get the correct license and vulnerability results back. </li> 
 </ul>
 <b>Preconditions:</b>
 <ul>
