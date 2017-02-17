@@ -9,6 +9,7 @@
 <b>Stakeholders:</b>
 <ul>
 <li><i>Corporate Developer:</i> To be able to provide the correct license and vulnerability information.</li>
+<li><i>Corporate Manager:</i> To be able to make decisions and apply policies from the correct license and vulnerablity information.</li>
 </ul>
 <b>Preconditions:</b>
 <ul>
