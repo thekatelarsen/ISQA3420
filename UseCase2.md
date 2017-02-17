@@ -4,20 +4,25 @@
 <br><br>
 <b>Primary Actor:</b> Corporate Manager
 <br><br>
-<b>Goal in Context:</b> The developer is able to determine the license of this software package as well as the vulnerability it may contain.
+<b>Goal in Context:</b> The manager is able to apply a policy to a certain package and get the policy information back to review.
 <br><br>
 <b>Stakeholders:</b>
 <ul>
-<li><i>Corporate Developer:</i> To be able to provide the correct license and vulnerability information.</li>
+<li><i>Corporate Manager:</i> To be able to provide the correct license and vulnerability information.</li>
+<li><i>Corporate Developer:</i> 
 </ul>
 <b>Preconditions:</b>
 <ul>
 <li>Correct software package </li>
 <li>Reliable internet connection</li>
-<li>Know what results are needed </li>
 </ul>
-<b>Main Success Scenario:</b> The developer receives the correct license and vulnerability information so that others can make decisions.
+<b>Main Success Scenario:</b> The manager correctly applies policy to the correct package and receives correct policy information back.
 <br><br>
-<b>Failed End Conditions:</b> The developer does not receive the correct license and vulnerability information and others cannot make a decision.
+<b>Failed End Conditions:</b> 
+<ul>
+<li> The manager does not correctly apply policy. </li>
+<li> The manager applies correct policy but not on the correct package. </li>
+<li> The manager does not receive correct policy information back. </li>
+</ul>
 <br><br>
-<b>Trigger:</b> The developer sends the software package to get scanned for licenses and vulnerability.
+<b>Trigger:</b> The manager sends the package name to apply policy.
