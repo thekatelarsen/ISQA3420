@@ -22,6 +22,6 @@
 <ul>
 <li> The manager does not correctly apply policy. </li>
 <li> The manager applies correct policy but not on the correct package. </li>
-<li> The manager does not receive correct policy information back. </li>
+<li> The manager applies correct policy to correct package but does not receive correct policy information back. </li>
 </ul>
 <b>Trigger:</b> The manager sends the package name to apply policy.
