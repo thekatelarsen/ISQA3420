@@ -9,7 +9,6 @@
 <b>Stakeholders:</b>
 <ul>
 <li><i>Corporate Manager:</i> To be able to correctly create or edit a policy. </li>
-<li><i>Corporate Developer: </i> To be able to get the correct license and vulnerability results back. </li> 
 </ul>
 <b>Preconditions:</b>
 <ul>
