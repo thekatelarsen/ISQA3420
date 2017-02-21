@@ -1,6 +1,6 @@
 # Use Case 2
 
-<b>Title:</b> Apply Policy To A Package
+<b>Title:</b> Receive Policy Documents
 <br><br>
 <b>Primary Actor:</b> Corporate Manager
 <br><br>
@@ -9,7 +9,6 @@
 <b>Stakeholders:</b>
 <ul>
 <li><i>Corporate Manager:</i> To be able to correctly apply a policy to a package. </li>
-<li><i>Corporate Developer: </i> To be able to get the correct license and vulnerability results back. </li> 
 </ul>
 <b>Preconditions:</b>
 <ul>
