@@ -22,8 +22,8 @@
 <b>Data Flows</b>
 <ul>
 <li><i>New Policy Info:</i> The new policy info to input into the policy database.</li>
-<li><i>Policy Name:</i> The name of the policy to be edited.</li>
-<li><i>Policy Info:</i> The policy info to be edited.</li>
+<li><i>Policy Name:</i> The name of the policy to be sent to policy database.</li>
+<li><i>Policy Info:</i> The policy info to be sent back to the manager.</li>
 <li><i>Edited Policy Info:</i> The edited policy info sent back to the policy database.</li>
 <li><i>Package Name:</i> The name of the software package.</li>
 <li><i>L Results:</i> The license results being sent to the developer and manager.</li>
