@@ -9,7 +9,7 @@
 <ul>
 <li><i>Create/Edit Policy:</i> The manager is able to create a new policy or edit an existing policy.</li>
 <li><i>Apply Policy:</i> The manager is able to apply a policy to a package and receive the policy info back. </li>
-<li><i>Query Database for License and Vulnerability Info:</i> The developer and manager are able to request license and vulnerability results from the license and vulnerability results database.</li>
+<li><i>Query DB for License and Vulnerability Info:</i> The developer and manager are able to request license and vulnerability results from the license and vulnerability results database.</li>
 <li><i>Accept Software and Results:</i> The developer can submit a software package to be scanned for licenses and checked for vulnerabilities and then send those results to the license and vulnerability database.</li>
 <li><i>Scan Software:</i> This scans the software package that the developer sent and sents back the license results.</li>
 </ul>
